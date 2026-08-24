@@ -9,6 +9,8 @@ Selection criteria:
 - evocative rather than explanatory;
 - no mere repetition: when a pressure recurs, its mutation should change the force, agency, timing, permission, memory, status, or consequence of the act;
 - a live connection to the source material without exposing or teaching its theoretical categories;
+- the deck as a whole should support retrospective recognition: after encountering the source framework, its recurring pressures should snap into focus without the cards having disclosed that framework in advance;
+- not every card needs a one-to-one theoretical correspondence; the retrospective connection should emerge across the field rather than turn the deck into an encoded taxonomy;
 - not merely a useful art-school exercise: a card should carry enough of the deck's peculiar pressure that it would feel out of place in a generic creativity workshop;
 - open enough to work across media;
 - capable of entering an unfinished work materially, spatially, procedurally, relationally, or through reading, rather than merely producing an interesting thought;
@@ -94,41 +96,39 @@ The ordering below is provisional and deliberately ungrouped. Source categories 
 75. Let absence become the most reliable record.
 76. Keep what almost belongs.
 77. Make agreement impossible without making conflict obvious.
-78. Correct something until it becomes unstable.
-79. Restore something without restoring its former role.
-80. Close a possibility earlier than necessary.
-81. Reintroduce what the work has learned to live without.
-82. Withhold the element that would resolve the whole.
-83. Remove the evidence that a convention was once a choice.
-84. Proceed as though one material were embarrassing.
-85. Protect what was meant to be temporary.
-86. Make the exception govern the rule.
-87. Make an arbitrary choice seem inevitable.
-88. Replace evidence of the process with a cleaner account.
-89. Remove the centre and preserve everything that depended on it.
-90. Continue a rule after its reason has disappeared.
-91. Make something look unofficial.
-92. Change one default and nothing else.
-93. Preserve the trace but lose the event.
-94. Erase the part that proves how the work was made.
-95. Make something easy to see but difficult to reach.
-96. Make the background responsible for the foreground.
-97. Let one element continually interrupt another.
-98. Make the strongest rule the one nobody notices.
-99. Leave evidence of something that never happened.
-100. Build a margin and send something there.
-101. Inherit a rule from another work.
-102. Reconstruct something from an incomplete record.
-103. Preserve its form while diminishing its influence.
-104. Invent a prohibition and forget you invented it.
-105. Make the unwanted effect indispensable.
-106. Let repetition turn a decision into a fact.
-107. Change the category without changing the object.
-108. Let it remain, but take away its audience.
-109. Make the next move answer an imagined criticism.
-110. Let the documentation contradict the work.
-111. Put the singular event among many similar events.
-112. Draw a boundary around something after it has begun to escape.
-113. Treat the central element as an interruption.
-114. Treat the correction as the error.
-115. Answer one element with another instead of removing it.
+78. Restore something without restoring its former role.
+79. Close a possibility earlier than necessary.
+80. Reintroduce what the work has learned to live without.
+81. Withhold the element that would resolve the whole.
+82. Remove the evidence that a convention was once a choice.
+83. Proceed as though one material were embarrassing.
+84. Protect what was meant to be temporary.
+85. Make the exception govern the rule.
+86. Make an arbitrary choice seem inevitable.
+87. Replace evidence of the process with a cleaner account.
+88. Remove the centre and preserve everything that depended on it.
+89. Continue a rule after its reason has disappeared.
+90. Make something look unofficial.
+91. Change one default and nothing else.
+92. Preserve the trace but lose the event.
+93. Erase the part that proves how the work was made.
+94. Make something easy to see but difficult to reach.
+95. Make the background responsible for the foreground.
+96. Let one element continually interrupt another.
+97. Make the strongest rule the one nobody notices.
+98. Leave evidence of something that never happened.
+99. Build a margin and send something there.
+100. Inherit a rule from another work.
+101. Reconstruct something from an incomplete record.
+102. Preserve its form while diminishing its influence.
+103. Invent a prohibition and forget you invented it.
+104. Let repetition turn a decision into a fact.
+105. Change the category without changing the object.
+106. Let it remain, but take away its audience.
+107. Make the next move answer an imagined criticism.
+108. Let the documentation contradict the work.
+109. Put the singular event among many similar events.
+110. Draw a boundary around something after it has begun to escape.
+111. Treat the central element as an interruption.
+112. Treat the correction as the error.
+113. Answer one element with another instead of removing it.
