@@ -79,57 +79,56 @@ The ordering below is provisional and deliberately ungrouped. Source categories 
 60. Put the most consequential decision somewhere unremarkable.
 61. Archive only the failures.
 62. Make permission uncertain and respond conservatively.
-63. Make the path of least resistance visible.
-64. Give authority to what cannot explain itself.
-65. Work from a memory you know is wrong.
-66. Invent a rule but do not state it.
-67. Remove the alternative rather than choosing.
-68. Preserve what was removed.
-69. Keep adding until the hierarchy collapses.
-70. Place the answer somewhere it can only be found after it is needed.
-71. Reverse something too late.
-72. Make the archive more complete than the object.
-73. Let an element recur, but only under one condition.
-74. Put what matters where attention arrives last.
-75. Preserve a compromise nobody remembers making.
-76. Let absence become the most reliable record.
-77. Keep what almost belongs.
-78. Make agreement impossible without making conflict obvious.
-79. Correct something until it becomes unstable.
-80. Restore something without restoring its former role.
-81. Close a possibility earlier than necessary.
-82. Reintroduce what the work has learned to live without.
-83. Withhold the element that would resolve the whole.
-84. Remove the evidence that a convention was once a choice.
-85. Proceed as though one material were embarrassing.
-86. Protect what was meant to be temporary.
-87. Make the exception govern the rule.
-88. Make an arbitrary choice seem inevitable.
-89. Replace evidence of the process with a cleaner account.
-90. Remove the centre and preserve everything that depended on it.
-91. Continue a rule after its reason has disappeared.
-92. Make something look unofficial.
-93. Change one default and nothing else.
-94. Preserve the trace but lose the event.
-95. Erase the part that proves how the work was made.
-96. Make something easy to see but difficult to reach.
-97. Make the background responsible for the foreground.
-98. Let one element continually interrupt another.
-99. Make the strongest rule the one nobody notices.
-100. Leave evidence of something that never happened.
-101. Build a margin and send something there.
-102. Inherit a rule from another work.
-103. Reconstruct something from an incomplete record.
-104. Preserve its form while diminishing its influence.
-105. Invent a prohibition and forget you invented it.
-106. Make the unwanted effect indispensable.
-107. Let repetition turn a decision into a fact.
-108. Change the category without changing the object.
-109. Let it remain, but take away its audience.
-110. Make the next move answer an imagined criticism.
-111. Let the documentation contradict the work.
-112. Surround the precise thing with imprecise echoes.
-113. Draw a boundary around something after it has begun to escape.
-114. Treat the central element as an interruption.
-115. Treat the correction as the error.
-116. Answer one element with another instead of removing it.
+63. Give authority to what cannot explain itself.
+64. Work from a memory you know is wrong.
+65. Invent a rule but do not state it.
+66. Remove the alternative rather than choosing.
+67. Preserve what was removed.
+68. Keep adding until the hierarchy collapses.
+69. Place the answer somewhere it can only be found after it is needed.
+70. Reverse something too late.
+71. Make the archive more complete than the object.
+72. Let an element recur, but only under one condition.
+73. Put what matters where attention arrives last.
+74. Preserve a compromise nobody remembers making.
+75. Let absence become the most reliable record.
+76. Keep what almost belongs.
+77. Make agreement impossible without making conflict obvious.
+78. Correct something until it becomes unstable.
+79. Restore something without restoring its former role.
+80. Close a possibility earlier than necessary.
+81. Reintroduce what the work has learned to live without.
+82. Withhold the element that would resolve the whole.
+83. Remove the evidence that a convention was once a choice.
+84. Proceed as though one material were embarrassing.
+85. Protect what was meant to be temporary.
+86. Make the exception govern the rule.
+87. Make an arbitrary choice seem inevitable.
+88. Replace evidence of the process with a cleaner account.
+89. Remove the centre and preserve everything that depended on it.
+90. Continue a rule after its reason has disappeared.
+91. Make something look unofficial.
+92. Change one default and nothing else.
+93. Preserve the trace but lose the event.
+94. Erase the part that proves how the work was made.
+95. Make something easy to see but difficult to reach.
+96. Make the background responsible for the foreground.
+97. Let one element continually interrupt another.
+98. Make the strongest rule the one nobody notices.
+99. Leave evidence of something that never happened.
+100. Build a margin and send something there.
+101. Inherit a rule from another work.
+102. Reconstruct something from an incomplete record.
+103. Preserve its form while diminishing its influence.
+104. Invent a prohibition and forget you invented it.
+105. Make the unwanted effect indispensable.
+106. Let repetition turn a decision into a fact.
+107. Change the category without changing the object.
+108. Let it remain, but take away its audience.
+109. Make the next move answer an imagined criticism.
+110. Let the documentation contradict the work.
+111. Put the singular event among many similar events.
+112. Draw a boundary around something after it has begun to escape.
+113. Treat the central element as an interruption.
+114. Treat the correction as the error.
+115. Answer one element with another instead of removing it.
