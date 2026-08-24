@@ -34,7 +34,7 @@ The ordering below is provisional and deliberately ungrouped. Source categories 
 18. Notice what you have stopped noticing.
 19. Replace it with something that almost fits.
 20. Let habit finish the work.
-21. Remove a connection rather than either endpoint.
+21. Break a connection without removing either part.
 22. Make the repair more visible than the damage.
 23. Refuse the most obvious solution before starting.
 24. Hide the decision inside the procedure.
@@ -66,8 +66,7 @@ The ordering below is provisional and deliberately ungrouped. Source categories 
 50. Leave evidence of something that never happened.
 51. Add a response that changes the question.
 52. Reconstruct something from an incomplete record.
-53. Work from the consequences of a decision you never made.
-54. Make the unwanted effect indispensable.
-55. Let it remain, but take away its audience.
-56. Make the next move answer an imagined criticism.
-57. Treat the interruption as the work.
+53. Make the unwanted effect indispensable.
+54. Let it remain, but take away its audience.
+55. Make the next move answer an imagined criticism.
+56. Treat the interruption as the work.
